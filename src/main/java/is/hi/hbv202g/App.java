@@ -1,4 +1,4 @@
-package is.hi.hbv202g.final.project;
+package is.hi.hbv202g;
 
 /**
  * Hello world!
