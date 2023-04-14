@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e14a5f26-aac8-4754-9ca3-026c5f689c67" name="Changes" comment="fxml skrá búin til">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e14a5f26-aac8-4754-9ca3-026c5f689c67" name="Changes" comment="uppfæra fxml skrá, UML skrá búin til" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="editable-svg" />
       </list>
     </option>
   </component>
@@ -69,6 +68,7 @@
       <workItem from="1681461093828" duration="439000" />
       <workItem from="1681461573178" duration="2059000" />
       <workItem from="1681464145914" duration="69000" />
+      <workItem from="1681464707288" duration="682000" />
     </task>
     <task id="LOCAL-00001" summary="lagfæring">
       <created>1680255095586</created>
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680255937540</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="uppfæra fxml skrá, UML skrá búin til">
+      <created>1681464760239</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681464760239</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +119,8 @@
     <MESSAGE value="lagfæring" />
     <MESSAGE value="lagfæring 2.0" />
     <MESSAGE value="fxml skrá búin til" />
-    <option name="LAST_COMMIT_MESSAGE" value="fxml skrá búin til" />
+    <MESSAGE value="uppfæra fxml skrá, UML skrá búin til" />
+    <option name="LAST_COMMIT_MESSAGE" value="uppfæra fxml skrá, UML skrá búin til" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
