@@ -1,0 +1,54 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"e14a5f26-aac8-4754-9ca3-026c5f689c67\" name=\"Changes\" comment=\"uppfæra fxml skrá, UML skrá búin til\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"FxmlFile\" />\n        <option value=\"editable-svg\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2Nlx3I7ZzNjrcMWQxMbt1j1QTef\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n    <option name=\"showMembers\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/Users/elisabetjohannesdottir/Library/Mobile Documents/com~apple~CloudDocs/Skóli/Hugbúnaðarverkfræði. B.Sc./Hugbúnaðarhönnun/SWDesignAndConstruction/softwareConstructionProject&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,\n    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,\n    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"e14a5f26-aac8-4754-9ca3-026c5f689c67\" name=\"Changes\" comment=\"\" />\n      <created>1680252271862</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1680252271862</updated>\n      <workItem from=\"1680252273379\" duration=\"624000\" />\n      <workItem from=\"1680254717473\" duration=\"1291000\" />\n      <workItem from=\"1680458757384\" duration=\"230000\" />\n      <workItem from=\"1680459022875\" duration=\"102000\" />\n      <workItem from=\"1680459138476\" duration=\"54000\" />\n      <workItem from=\"1680691789479\" duration=\"191000\" />\n      <workItem from=\"1681461093828\" duration=\"439000\" />\n      <workItem from=\"1681461573178\" duration=\"2059000\" />\n      <workItem from=\"1681464145914\" duration=\"69000\" />\n      <workItem from=\"1681464707288\" duration=\"682000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"lagfæring\">\n      <created>1680255095586</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1680255095586</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"lagfæring 2.0\">\n      <created>1680255154765</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1680255154765</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"fxml skrá búin til\">\n      <created>1680255937540</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1680255937540</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"uppfæra fxml skrá, UML skrá búin til\">\n      <created>1681464760239</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1681464760239</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"5\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"lagfæring\" />\n    <MESSAGE value=\"lagfæring 2.0\" />\n    <MESSAGE value=\"fxml skrá búin til\" />\n    <MESSAGE value=\"uppfæra fxml skrá, UML skrá búin til\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"uppfæra fxml skrá, UML skrá búin til\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 375032451db2021a1f0a789c61df1bfdad7e3c31)
++++ b/.idea/workspace.xml	(date 1681478923679)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="e14a5f26-aac8-4754-9ca3-026c5f689c67" name="Changes" comment="uppfæra fxml skrá, UML skrá búin til" />
++    <list default="true" id="e14a5f26-aac8-4754-9ca3-026c5f689c67" name="Changes" comment="uppfæra fxml" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -68,7 +68,7 @@
+       <workItem from="1681461093828" duration="439000" />
+       <workItem from="1681461573178" duration="2059000" />
+       <workItem from="1681464145914" duration="69000" />
+-      <workItem from="1681464707288" duration="682000" />
++      <workItem from="1681464707288" duration="956000" />
+     </task>
+     <task id="LOCAL-00001" summary="lagfæring">
+       <created>1680255095586</created>
+@@ -98,7 +98,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1681464760239</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="uppfæra fxml">
++      <created>1681465852906</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1681465852906</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -120,7 +127,8 @@
+     <MESSAGE value="lagfæring 2.0" />
+     <MESSAGE value="fxml skrá búin til" />
+     <MESSAGE value="uppfæra fxml skrá, UML skrá búin til" />
+-    <option name="LAST_COMMIT_MESSAGE" value="uppfæra fxml skrá, UML skrá búin til" />
++    <MESSAGE value="uppfæra fxml" />
++    <option name="LAST_COMMIT_MESSAGE" value="uppfæra fxml" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
