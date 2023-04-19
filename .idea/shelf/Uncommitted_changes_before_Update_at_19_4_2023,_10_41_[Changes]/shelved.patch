@@ -1,0 +1,213 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"e14a5f26-aac8-4754-9ca3-026c5f689c67\" name=\"Changes\" comment=\"lagfæring 2.0\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2Nlx3I7ZzNjrcMWQxMbt1j1QTef\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n    <option name=\"showMembers\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"project.structure.last.edited\": \"Libraries\",\n    \"project.structure.proportion\": \"0.15\",\n    \"project.structure.side.proportion\": \"0.2\",\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\"\n  }\n}]]></component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"e14a5f26-aac8-4754-9ca3-026c5f689c67\" name=\"Changes\" comment=\"\" />\n      <created>1680252271862</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1680252271862</updated>\n      <workItem from=\"1680252273379\" duration=\"624000\" />\n      <workItem from=\"1680254717473\" duration=\"903000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"lagfæring\">\n      <created>1680255095586</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1680255095586</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"lagfæring 2.0\">\n      <created>1680255154765</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1680255154765</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"lagfæring\" />\n    <MESSAGE value=\"lagfæring 2.0\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"lagfæring 2.0\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,7 +4,11 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="e14a5f26-aac8-4754-9ca3-026c5f689c67" name="Changes" comment="lagfæring 2.0" />
++    <list default="true" id="e14a5f26-aac8-4754-9ca3-026c5f689c67" name="Changes" comment="myndir inn">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/resources/mainMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mainMenu.fxml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/resources/tripsWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tripsWindow.fxml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -32,20 +36,27 @@
+     <option name="showLibraryContents" value="true" />
+     <option name="showMembers" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "project.structure.last.edited": "Libraries",
+-    "project.structure.proportion": "0.15",
+-    "project.structure.side.proportion": "0.2",
+-    "settings.editor.selected.configurable": "preferences.pluginManager"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
++  <component name="RecentsManager">
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/src/main/resources/images" />
++    </key>
++  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -56,6 +67,8 @@
+       <updated>1680252271862</updated>
+       <workItem from="1680252273379" duration="624000" />
+       <workItem from="1680254717473" duration="903000" />
++      <workItem from="1681768599923" duration="1470000" />
++      <workItem from="1681851145662" duration="1109000" />
+     </task>
+     <task id="LOCAL-00001" summary="lagfæring">
+       <created>1680255095586</created>
+@@ -71,13 +84,24 @@
+       <option name="project" value="LOCAL" />
+       <updated>1680255154765</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="myndir inn">
++      <created>1681768683962</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1681768683962</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="lagfæring" />
+     <MESSAGE value="lagfæring 2.0" />
+-    <option name="LAST_COMMIT_MESSAGE" value="lagfæring 2.0" />
++    <MESSAGE value="myndir inn" />
++    <option name="LAST_COMMIT_MESSAGE" value="myndir inn" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
+Index: src/main/resources/tripsWindow.fxml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\n<?import javafx.scene.control.ComboBox?>\n<?import javafx.scene.image.Image?>\n<?import javafx.scene.image.ImageView?>\n<?import javafx.scene.layout.AnchorPane?>\n<?import javafx.scene.text.Font?>\n<?import javafx.scene.text.Text?>\n\n\n<AnchorPane maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"441.0\" prefWidth=\"688.0\" xmlns=\"http://javafx.com/javafx/19\" xmlns:fx=\"http://javafx.com/fxml/1\">\n   <children>\n      <ComboBox layoutX=\"490.0\" layoutY=\"274.0\" onAction=\"#LocalDate\" prefWidth=\"150.0\" />\n      <ImageView fitHeight=\"140.0\" fitWidth=\"195.0\" layoutX=\"50.0\" layoutY=\"121.0\" pickOnBounds=\"true\" preserveRatio=\"true\">\n         <image>\n            <Image url=\"@images/golden-circle.jpeg\" />\n         </image>\n      </ImageView>\n      <ImageView fitHeight=\"130.0\" fitWidth=\"250.0\" layoutX=\"50.0\" layoutY=\"247.0\" pickOnBounds=\"true\" preserveRatio=\"true\">\n         <image>\n            <Image url=\"@images/kajak.jpeg\" />\n         </image>\n      </ImageView>\n      <ImageView fitHeight=\"140.0\" fitWidth=\"195.0\" layoutX=\"245.0\" layoutY=\"121.0\" pickOnBounds=\"true\" preserveRatio=\"true\">\n         <image>\n            <Image url=\"@images/elves.jpeg\" />\n         </image>\n      </ImageView>\n      <ImageView fitHeight=\"140.0\" fitWidth=\"195.0\" layoutX=\"245.0\" layoutY=\"247.0\" pickOnBounds=\"true\" preserveRatio=\"true\">\n         <image>\n            <Image url=\"@images/horseriding.jpeg\" />\n         </image>\n      </ImageView>\n      <Text layoutX=\"112.0\" layoutY=\"76.0\" strokeType=\"OUTSIDE\" strokeWidth=\"0.0\" text=\"Choose your adventure!\" textAlignment=\"CENTER\">\n         <font>\n            <Font name=\"BM JUA OTF\" size=\"25.0\" />\n         </font>\n      </Text>\n   </children>\n</AnchorPane>\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/resources/tripsWindow.fxml b/src/main/resources/tripsWindow.fxml
+--- a/src/main/resources/tripsWindow.fxml	
++++ b/src/main/resources/tripsWindow.fxml	
+@@ -1,5 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ 
++<?import com.gluonhq.charm.glisten.control.Icon?>
++<?import javafx.scene.control.Button?>
+ <?import javafx.scene.control.ComboBox?>
+ <?import javafx.scene.image.Image?>
+ <?import javafx.scene.image.ImageView?>
+@@ -7,15 +9,21 @@
+ <?import javafx.scene.text.Font?>
+ <?import javafx.scene.text.Text?>
+ 
+-
+ <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="441.0" prefWidth="688.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+-      <ComboBox layoutX="490.0" layoutY="274.0" onAction="#LocalDate" prefWidth="150.0" />
+-      <ImageView fitHeight="140.0" fitWidth="195.0" layoutX="50.0" layoutY="121.0" pickOnBounds="true" preserveRatio="true">
+-         <image>
+-            <Image url="@images/golden-circle.jpeg" />
+-         </image>
+-      </ImageView>
++      <ComboBox accessibleRole="DATE_PICKER" layoutX="490.0" layoutY="274.0" onAction="#LocalDate" prefWidth="150.0" />
++      <Button layoutX="60.0" layoutY="111.0" mnemonicParsing="false">
++         <graphic>
++            <ImageView fitHeight="140.0" fitWidth="195.0" pickOnBounds="true" preserveRatio="true">
++               <image>
++                  <Image url="@images/golden-circle.jpeg" />
++               </image>
++            </ImageView>
++         </graphic>
++      </Button>
++      <Button mnemonicParsing="false" text="Button" />
++      <Button mnemonicParsing="false" text="Button" />
++      <Button mnemonicParsing="false" text="Button" />
+       <ImageView fitHeight="130.0" fitWidth="250.0" layoutX="50.0" layoutY="247.0" pickOnBounds="true" preserveRatio="true">
+          <image>
+             <Image url="@images/kajak.jpeg" />
+@@ -33,8 +41,13 @@
+       </ImageView>
+       <Text layoutX="112.0" layoutY="76.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Choose your adventure!" textAlignment="CENTER">
+          <font>
+-            <Font name="BM JUA OTF" size="25.0" />
++            <Font name="Dilo World" size="25.0" />
+          </font>
+       </Text>
++      <Button mnemonicParsing="false">
++         <graphic>
++            <Icon accessibleRole="BUTTON" content="ARROW_BACK" prefWidth="25.0" />
++         </graphic>
++      </Button>
+    </children>
+ </AnchorPane>
+Index: src/main/resources/mainMenu.fxml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/resources/mainMenu.fxml b/src/main/resources/mainMenu.fxml
+--- a/src/main/resources/mainMenu.fxml	
++++ b/src/main/resources/mainMenu.fxml	
+@@ -1,0 +1,42 @@
++<?xml version="1.0" encoding="UTF-8"?>
++
++<?import javafx.scene.Cursor?>
++<?import javafx.scene.control.Button?>
++<?import javafx.scene.control.Label?>
++<?import javafx.scene.image.Image?>
++<?import javafx.scene.image.ImageView?>
++<?import javafx.scene.layout.AnchorPane?>
++<?import javafx.scene.text.Font?>
++
++
++<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="441.0" prefWidth="688.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
++   <children>
++      <ImageView fitHeight="441.0" fitWidth="688.0" pickOnBounds="true" preserveRatio="true">
++         <image>
++            <Image url="@images/bakgrunnur.png" />
++         </image>
++      </ImageView>
++      <Label layoutX="133.0" layoutY="40.0" text="what you would like to book?">
++         <font>
++            <Font name="Dilo World" size="30.0" />
++         </font>
++      </Label>
++      <Button layoutX="373.0" layoutY="110.0" mnemonicParsing="false" prefHeight="292.0" prefWidth="221.0">
++         <graphic>
++            <ImageView fitHeight="292.0" fitWidth="221.0" pickOnBounds="true" preserveRatio="true" />
++         </graphic>
++      </Button>
++      <Button layoutX="95.0" layoutY="110.0" mnemonicParsing="false" prefHeight="292.0" prefWidth="221.0">
++         <graphic>
++            <ImageView cache="true" fitHeight="292.0" fitWidth="221.0" opacity="0.75" pickOnBounds="true" preserveRatio="true">
++               <image>
++                  <Image url="@images/horseriding.jpeg" />
++               </image>
++               <cursor>
++                  <Cursor fx:constant="DEFAULT" />
++               </cursor>
++            </ImageView>
++         </graphic>
++      </Button>
++   </children>
++</AnchorPane>

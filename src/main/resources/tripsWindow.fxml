@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.control.ComboBox?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="441.0" prefWidth="688.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <ComboBox layoutX="490.0" layoutY="274.0" onAction="#LocalDate" prefWidth="150.0" />
       <ImageView fitHeight="140.0" fitWidth="195.0" layoutX="50.0" layoutY="121.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@images/golden-circle.jpeg" />
@@ -33,7 +30,7 @@
       </ImageView>
       <Text layoutX="112.0" layoutY="76.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Choose your adventure!" textAlignment="CENTER">
          <font>
-            <Font name="BM JUA OTF" size="25.0" />
+            <Font name="Dilo World" size="25.0" />
          </font>
       </Text>
    </children>
