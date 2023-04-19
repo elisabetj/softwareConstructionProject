@@ -19,11 +19,11 @@ public class Main
         Tour tour = new Tour(tourName);
         Hotel hotel = new Hotel(hotelName);
         Booking booking = new Trip();
-        Booking accomodation = new Trip();
+        Booking accommodation = new Trip();
 
         booking.bookTour(tour, customer);
 
-        accomodation.bookHotel(hotel, customer);
+        accommodation.bookHotel(hotel, customer);
 
 
        }
