@@ -1,15 +1,19 @@
 package is.hi.hbv202g;
 
+import java.util.ArrayList;
+
 /**
  * @author Ester Jenný (ejb7)
  **/
 public class Customer {
     private String name;
     private String email;
+    private ArrayList<Booking> booking;
 
     public Customer(String name, String email) {
         this.name = name;
         this.email = email;
+        this.booking = new ArrayList<>();
     }
 
     public String getName() {
@@ -26,5 +30,13 @@ public class Customer {
 
     public void setEmail(String email) {
         this.email = email;
+    }
+
+    public void setBooking(ArrayList<Booking> booking) {
+        this.booking = booking;
+    }
+
+    public ArrayList<Booking> getBooking() {
+        return booking;
     }
 }

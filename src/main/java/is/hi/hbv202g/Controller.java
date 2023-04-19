@@ -1,46 +1,42 @@
 package is.hi.hbv202g;
 
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
+import javafx.fxml.Initializable;
+import javafx.scene.control.Button;
+import javafx.scene.control.ListView;
+import javafx.scene.control.TextField;
+import sun.jvm.hotspot.utilities.Observable;
 
-import javax.swing.text.html.ListView;
 import java.awt.*;
+import java.net.URL;
+import java.util.List;
 import java.util.ResourceBundle;
 
-public class Controller {
-
-    // name
-    @FXML
-    private TextField ;
-
-    // email
-    @FXML
-    private TextField ;
-
-    // reservation
-    @FXML
-    private ListView hotelList;
-
-
-    // hotel eda trip
+public class Controller implements Initializable {
 
     @FXML
-    private ListView tourList;
+    private ListView tourListView;
+    @FXML
+    private ListView hotelListView ;
+    @FXML
+    private TextField customerTextField;
+    @FXML
+    private TextField emailTextField;
+    @FXML
+    private Button addButton;
 
     private Data data = new Data();
-    // private ObserbleList a eftir ad setja inn Customer
+    private ObservableList<Tour> tour = FXCollections.observableArrayList();
+    private ObservableList<Hotel> hotel = FXCollections.observableArrayList();
 
     @Override
-    public void initialse(URL locaton, ResourceBundle resources) {
-        customer = data.getCustomer();
+    public void initialize(URL url, ResourceBundle resourceBundle) {
+        tour = data.getTour();
+        tourListView.setItems(tour);
 
+        hotel = data.getHotel();
+        hotelListView.setItems(hotel);
     }
-
-
-
-
-
-
-
-
-
 }
