@@ -1,5 +1,8 @@
 package is.hi.hbv202g;
 
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
+
 import java.util.ArrayList;
 
 /**
@@ -7,6 +10,16 @@ import java.util.ArrayList;
  **/
 public class Data {
     public Data(){}
+
+    public ObservableList<Customer> getCustomer(){
+        ObservableList<Customer> customers = FXCollections.observableArrayList();
+        return customers;
+    }
+
+    public ObservableList<Booking> getbookings(){
+        ObservableList<Booking> bookings =FXCollections.observableArrayList();
+        return bookings;
+    }
 
     public ArrayList<Tour> getTours() {
         ArrayList<Tour> tours = new ArrayList<>();
@@ -22,6 +35,4 @@ public class Data {
 
         return hotels;
     }
-
-
 }
